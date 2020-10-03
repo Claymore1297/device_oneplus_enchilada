@@ -1,7 +1,7 @@
 [
   {
-    "repository":  "AICP/device_oneplus_sdm845-common",
+    "repository":  "Claymore1297/device_oneplus_sdm845-common",
     "target_path": "device/oneplus/sdm845-common",
     "branch":      "q10.0"
-  },
+  }
 ]
